@@ -1,7 +1,7 @@
 package downloader
 
 import (
-	"github.com/EDDYCJY/fake-useragent/setting"
+	"github.com/junan/fake-useragent/setting"
 	"testing"
 )
 

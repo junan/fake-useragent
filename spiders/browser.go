@@ -8,10 +8,10 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/nozzle/throttler"
 
-	"github.com/EDDYCJY/fake-useragent/downloader"
-	"github.com/EDDYCJY/fake-useragent/scheduler"
-	"github.com/EDDYCJY/fake-useragent/setting"
-	"github.com/EDDYCJY/fake-useragent/useragent"
+	"github.com/junan/fake-useragent/downloader"
+	"github.com/junan/fake-useragent/scheduler"
+	"github.com/junan/fake-useragent/setting"
+	"github.com/junan/fake-useragent/useragent"
 )
 
 type Spider struct {
